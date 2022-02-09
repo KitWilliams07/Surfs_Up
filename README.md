@@ -10,9 +10,7 @@ A few queries were written in order to grab the neccessary data from the SQL dat
 
 The first task was to determine the weather statistics from the month of July. Rather than selecting one specific year, a query was run to select all the weather data from all days in June across all the years in the database. Once the query was preformed, summary statistics were determined and are shown below. 
 
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/retirement_titles.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Surfs_Up/main/june.png)
 
 ## Summary 
 
-
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/retirement_titles.png)
